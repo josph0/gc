@@ -3,7 +3,7 @@ from datetime import date, timedelta
 
 todayS = date.today()
 
-magasins = ["bc", "back-to-bc", "calvinandhobbes", "garfield",  "heathcliff",  "nancy", "nancy-classics", "peanuts", "peanuts-begins", "wizardofid", "wizard-of-id-classics"]
+magasins = ["back-to-bc"]
 
 for magasin in magasins:
 
